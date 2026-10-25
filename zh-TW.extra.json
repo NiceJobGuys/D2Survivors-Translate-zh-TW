@@ -1,0 +1,15 @@
+{
+ "_comment": "遊戲字典以 # 表示數字槽位，但技能說明有些槽位放的是動詞（chill/chills）或「最多 3」，# 比對不到；這裡用 * 槽位補上。",
+ "* that * for *s, * damage": "{0}，{1} {2} 秒，造成 {3} 傷害",
+ "* that * for * damage around what *": "{0}，{1}對{3}周圍造成 {2} 傷害",
+ "* that * mark, * damage": "{0}{1}目標，造成 {2} 傷害",
+ "* that * * and *, * damage": "{0}{1} {2} 個目標並{3}，造成 {4} 傷害",
+ "* skeletal mages cast fire, cold, lightning or poison bolts, * damage": "{0} 具骷髏法師施放火焰、冰冷、閃電或毒素彈，造成 {1} 傷害",
+ "* skeletal mage casts fire, cold, lightning or poison bolts, * damage": "{0} 具骷髏法師施放火焰、冰冷、閃電或毒素彈，造成 {1} 傷害",
+ "* hammers spiral out around you, * damage to all they pass": "{0} 把錘子在你周圍盤旋擴散，對經過的所有目標造成 {1} 傷害",
+ "* hammer spirals out around you, * damage to all it passes": "{0} 把錘子在你周圍盤旋擴散，對經過的所有目標造成 {1} 傷害",
+ "* ravens peck at monsters, * damage, * times each": "{0} 隻烏鴉啄擊怪物，造成 {1} 傷害，每隻 {2} 次",
+ "* raven pecks at monsters, * damage, * times each": "{0} 隻烏鴉啄擊怪物，造成 {1} 傷害，每隻 {2} 次",
+ "* creepers crawl after monsters, * poison over *s a bite, * life": "{0} 株爬藤追擊怪物，每次咬擊在 {2} 秒內造成 {1} 毒素傷害，生命 {3}",
+ "* creeper crawls after monsters, * poison over *s a bite, * life": "{0} 株爬藤追擊怪物，每次咬擊在 {2} 秒內造成 {1} 毒素傷害，生命 {3}"
+}

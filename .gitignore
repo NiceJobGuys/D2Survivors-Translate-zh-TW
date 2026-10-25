@@ -1,0 +1,7 @@
+backup/
+work/
+app.asar*
+untranslated.txt
+node_modules/
+*.zip
+*.sha256
